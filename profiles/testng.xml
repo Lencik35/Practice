@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="API" verbose="1" >
+    <test name="Test Regres" >
+        <classes>
+            <class name="Tests.TestRegres" />
+        </classes>
+    </test>
+</suite>
